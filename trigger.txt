@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+mongodb/mongodb-community-server:7.0.0-ubi8 registry.cn-hangzhou.aliyuncs.com/lwbp/mongodb-community-server:7.0.0-ubi8
